@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/20221011_172709_name_header darksollee.svg">
-  <img alt="Sollee" src="assets/20221011_172709_name_headersollee.svg">
-</picture>
+![Sollee](./assets/20221011_172709_name_header_darksollee.svg#gh-dark-mode-only)
+![Sollee](./assets/20221011_172709_name_headersollee.svg#gh-light-mode-only)
+
 
 (handle pronounced as `/ˈsoʊˌli/`)
 
