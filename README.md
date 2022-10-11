@@ -1,6 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/20221011_172709_name_headersollee.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/20221011_172709_name_header darksollee.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/20221011_172709_name_header darksollee.svg">
   <img alt="Sollee" src="assets/20221011_172709_name_headersollee.svg">
 </picture>
 
