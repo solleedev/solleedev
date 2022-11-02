@@ -2,12 +2,13 @@
 ![Sollee](./assets/20221011_172709_name_headersollee.svg#gh-light-mode-only)
 
 
-(handle pronounced as `/ˈsoʊˌli/`)
+(pronounce it however you like)
 
 Hi, I'm @solleedev, a 14 year old coder learning more about blockchains every day.
 
 ## My accounts
 
-- [Twitter (@solleedev)](https://twitter.com/solleedev) - currently suspended (idk why)
+- [Twitter (@sollee_eth)](https://twitter.com/sollee_eth)
 - [Github (@solleedev)](https://github.com/solleedev) - you're looking at it right now
 - [Email (solleedev@proton.me)](mailto://solleedev@proton.me)
+- [Wallet (sollee.eth)](https://etherscan.io/address/sollee.eth)
