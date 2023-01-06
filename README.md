@@ -4,11 +4,6 @@
 
 (pronounce it however you like)
 
-> *[Clouds up above, casting shadows on the ground](https://www.youtube.com/watch?v=R_Eu1pRH7_0)  
-> [Rain was falling endlessly, tired of keeping my head down](https://www.youtube.com/watch?v=R_Eu1pRH7_0)  
-> [So give me technicolor, no more living black and white](https://www.youtube.com/watch?v=R_Eu1pRH7_0)  
-> [Rising over the horizon, painting colors in my sky](https://www.youtube.com/watch?v=R_Eu1pRH7_0)*
-
 Hi, I'm @solleedev, a 14 year old coder learning more about blockchains every day.
 
 Decentralization maxi & Ethereum lover
