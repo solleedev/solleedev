@@ -11,6 +11,8 @@
 
 Hi, I'm @solleedev, a 14 year old coder learning more about blockchains every day.
 
+Decentralization maxi & Ethereum lover
+
 ## My accounts
 
 - [Twitter (@sollee_eth)](https://twitter.com/sollee_eth) - suspended wtf???
