@@ -4,6 +4,16 @@
 
 (pronounce it however you like)
 
+> [Please don't make me choose  
+> Between the life I had with you  
+> And the moral thing to do  
+> I really wish your act was just a ruse  
+> But I know you've lost your mind  
+> And I know that it's my time  
+> Do I join you at your side?  
+> Or do I let you face your own demise?](https://www.youtube.com/watch?v=Ytd-5KwPTIc)
+
+
 Hi, I'm @solleedev, a 14 year old coder learning more about blockchains every day.
 
 - Decentralization maxi (ACTUAL decentralization, not buzzword decentralization. Chainlink is immediately disqualified and so do all the protocols which use it lmao)
@@ -19,6 +29,7 @@ Hi, I'm @solleedev, a 14 year old coder learning more about blockchains every da
 - [Wallet (sollee.eth)](https://etherscan.io/address/sollee.eth)
 - [Mage Profile (u/sollee)](https://mage.space/u/sollee) - may require login
 - [Reddit (u/SolleeEth)](https://reddit.com/u/SolleeEth)
+- [Mirror (sollee.eth)](https://mirror.xyz/sollee.eth)
 
 ## Intriguisting?
 nfa dyor
