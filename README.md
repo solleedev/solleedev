@@ -22,7 +22,3 @@ Hi, I'm @solleedev, a 14 year old coder learning more about blockchains every da
 - [Mage Profile (u/sollee)](https://mage.space/u/sollee) - may require login
 - [Reddit (u/SolleeEth)](https://reddit.com/u/SolleeEth)
 - [Mirror (sollee.eth)](https://mirror.xyz/sollee.eth)
-
-## Intriguisting?
-nfa dyor
-- https://trustless.fi, a truly decentralized stablecoin with fully on chain oracle
