@@ -1,17 +1,7 @@
 ![Sollee](./assets/20221011_172709_name_header_darksollee.svg#gh-dark-mode-only)
 ![Sollee](./assets/20221011_172709_name_headersollee.svg#gh-light-mode-only)
 
-
-(pronounce it however you like)
-
 # [see website](https://sollee.eth.limo)
-
-Hi, I'm @solleedev, a 14 year old coder learning more about blockchains every day.
-
-- Decentralization maxi (ACTUAL decentralization, not buzzword decentralization. Chainlink is immediately disqualified and so do all the protocols which use it lmao)
-- I make AI art to kill time (I use https://mage.space, pretty cool)
-- Into cryptography at a high level, True DeFi primitives (not fake DeFi, REEEEEE CHAINLINK), synthetics, bridging, etc.
-- Web2dev and web3dev, lol
 
 ## My accounts
 
