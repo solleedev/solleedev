@@ -5,7 +5,8 @@
 
 ## My accounts
 
-- [Twitter (@sollee_eth)](https://twitter.com/sollee_eth)
+- ~~[Twitter (@sollee_eth)](https://twitter.com/sollee_eth)~~
+- [Mastodon (@sollee@mastodon.online)](https://mastodon.online/@sollee)
 - [Github (@solleedev)](https://github.com/solleedev) - you're looking at it right now
 - [Email (solleedev@proton.me)](mailto://solleedev@proton.me)
 - [Wallet (sollee.eth)](https://etherscan.io/address/sollee.eth)
