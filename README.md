@@ -5,11 +5,10 @@
 
 ## My accounts
 
-- ~~[Twitter (@sollee_eth)](https://twitter.com/sollee_eth)~~
+- [X (@sollee_eth)](https://twitter.com/sollee_eth)
 - [Mastodon (@sollee@mastodon.online)](https://mastodon.online/@sollee)
 - [Github (@solleedev)](https://github.com/solleedev) - you're looking at it right now
 - [Email (solleedev@proton.me)](mailto://solleedev@proton.me)
 - [Wallet (sollee.eth)](https://etherscan.io/address/sollee.eth)
 - [Mage Profile (u/sollee)](https://mage.space/u/sollee) - may require login
-- [Reddit (u/SolleeEth)](https://reddit.com/u/SolleeEth)
 - [Mirror (sollee.eth)](https://mirror.xyz/sollee.eth)
