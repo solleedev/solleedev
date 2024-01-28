@@ -12,3 +12,5 @@
 - [Wallet (sollee.eth)](https://etherscan.io/address/sollee.eth)
 - [Mage Profile (u/sollee)](https://mage.space/u/sollee) - may require login
 - [Mirror (sollee.eth)](https://mirror.xyz/sollee.eth)
+
+indefinitely gone
